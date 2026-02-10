@@ -1,0 +1,22 @@
+# ======================
+# Frontend (Vite + React)
+# ======================
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# ======================
+# Backend (Python)
+# ======================
+backend/__pycache__/
+backend/.env
+venv/
+.env
+
+# ======================
+# General
+# ======================
+node_modules/
+dist/
+.DS_Store
+*.log
